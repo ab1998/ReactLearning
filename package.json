@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "This is React Learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab1998/ReactLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab1998/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/ab1998/ReactLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
